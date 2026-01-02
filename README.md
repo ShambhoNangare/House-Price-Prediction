@@ -85,7 +85,8 @@ This project aims to predict house prices per unit area using machine learning t
 
 ## 👨‍🎓 Author
 
-Shambhu Nangare
-M.Sc. Statistics
-Sadguru Gadge Maharaj College, Karad
+* Shambho Nangare
+* M.Sc. Statistics
+* Sadguru Gadge Maharaj College, Karad
+* ✉️ [Email me](mailto:nangareshambho@gmail.com)
 
