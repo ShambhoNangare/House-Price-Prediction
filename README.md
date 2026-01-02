@@ -14,10 +14,10 @@ This project aims to predict house prices per unit area using machine learning t
 
 ## 🗂️ Dataset Description
 
-Source: Kaggle / UCI Machine Learning Repository
-Type: Secondary dataset
-Description: The dataset contains real estate property transactions with numerical features related to location and property characteristics.
-Target Variable: House price per unit area
+* Source: Kaggle / UCI Machine Learning Repository
+* Type: Secondary dataset
+* Description: The dataset contains real estate property transactions with numerical features related to location and property characteristics.
+* Target Variable: House price per unit area
 
 ## 🔢 Features
 Feature	Description
