@@ -89,8 +89,3 @@ Shambhu Nangare
 M.Sc. Statistics
 Sadguru Gadge Maharaj College, Karad
 
-🔥 Resume bullets only
-
-🔥 Interview Q&A from this project
-
-Just tell me 👍
