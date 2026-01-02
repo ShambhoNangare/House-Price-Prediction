@@ -48,80 +48,46 @@ Y	House price per unit area
 * Number of convenience stores
 * Latitude and longitude
 
-🤖 Machine Learning Models Used
+## 🤖 Machine Learning Models Used
 
-Decision Tree Classifier
+* Decision Tree Classifier
+* Random Forest Classifier
+* K-Nearest Neighbours (KNN)
 
-Random Forest Classifier
+## 📈 Model Performance
+### Model	Accuracy
+* Decision Tree	77.11%
+* Random Forest	85.54%
+* K-Nearest Neighbours	81.93%
 
-K-Nearest Neighbours (KNN)
+### ✅ Random Forest achieved the best performance with approximately 86% accuracy.
 
-Note: Although house price is a continuous variable, prices were also categorized into classes (Low, Medium, High) to evaluate model performance using classification techniques.
+## 🏁 Conclusion
 
-📈 Model Performance
-Model	Accuracy
-Decision Tree	77.11%
-Random Forest	85.54%
-K-Nearest Neighbours	81.93%
+* Location-based features significantly influence house prices
+* Properties closer to MRT stations tend to have higher prices
+* Random Forest provides better accuracy and stability compared to other models
+* Machine learning techniques are effective for house price prediction
 
-✅ Random Forest achieved the best performance with approximately 86% accuracy.
+## 🔮 Future Scope
 
-🏁 Conclusion
+* Implement deep learning models for improved prediction accuracy
+* Integrate real-time data such as infrastructure and traffic
+* Include environmental and climate-related factors
+* Deploy the model as a web application
 
-Location-based features significantly influence house prices
+## 🛠️ Tools & Technologies
 
-Properties closer to MRT stations tend to have higher prices
+* Language: Python
+* Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
+* IDE: Jupyter Notebook
+* Other Tools: Microsoft Excel
 
-Random Forest provides better accuracy and stability compared to other models
-
-Machine learning techniques are effective for house price prediction
-
-🔮 Future Scope
-
-Implement deep learning models for improved prediction accuracy
-
-Integrate real-time data such as infrastructure and traffic
-
-Include environmental and climate-related factors
-
-Deploy the model as a web application
-
-🛠️ Tools & Technologies
-
-Language: Python
-
-Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
-
-IDE: Jupyter Notebook
-
-Other Tools: Microsoft Excel
-
-📁 Project Structure
-├── dataset/
-│   └── final_project_dataset.csv
-├── notebook/
-│   └── House_Price_Prediction.ipynb
-├── README.md
-
-👨‍🎓 Author
+## 👨‍🎓 Author
 
 Shambhu Nangare
 M.Sc. Statistics
 Sadguru Gadge Maharaj College, Karad
-
-✅ Final Advice
-
-This README is:
-
-✔️ Resume-safe
-
-✔️ Interview-ready
-
-✔️ Recruiter-friendly
-
-If you want next:
-
-🔥 Short 1-page README
 
 🔥 Resume bullets only
 
