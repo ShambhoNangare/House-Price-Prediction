@@ -21,13 +21,13 @@ This project aims to predict house prices per unit area using machine learning t
 
 ## 🔢 Features
 * Feature	Description
-** X1	Transaction date
-** X2	House age (years)
-** X3	Distance to nearest MRT station (meters)
-** X4	Number of nearby convenience stores
-** X5	Latitude
-** X6	Longitude
-** Y	House price per unit area
+> X1	Transaction date
+> X2	House age (years)
+> X3	Distance to nearest MRT station (meters)
+> X4	Number of nearby convenience stores
+> X5	Latitude
+> X6	Longitude
+> Y	House price per unit area
 
 ## 🔍 Methodology
 
