@@ -48,6 +48,10 @@ This project aims to predict house prices per unit area using machine learning t
 * Number of convenience stores
 * Latitude and longitude
 
+## Visualization
+![House Price Distribution]("D:\Project\Final Projects\plot.png")
+
+
 ## 🤖 Machine Learning Models Used
 
 * Decision Tree Classifier
