@@ -49,7 +49,6 @@ This project aims to predict house prices per unit area using machine learning t
 * Latitude and longitude
 
 ## Visualization
-![House Price Distribution]("D:\Project\Final Projects\plot.png")
 
 
 ## 🤖 Machine Learning Models Used
